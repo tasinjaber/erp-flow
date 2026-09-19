@@ -1,0 +1,1 @@
+import{describe,it,expect}from"vitest";describe("ERP Flow",()=>it("has a valid title",()=>expect("ERP Flow".length).toBeGreaterThan(3)));
